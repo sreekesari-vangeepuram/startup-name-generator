@@ -5,7 +5,7 @@ A Flutter project which generates names randomly for your Startup.
 # Downloads  
 
 For Android-based devices:  
-[Click here] to download the `apk` of the app.
+[Click here](https://github.com/sreekesari-vangeepuram/startup-name-generator/releases/download/v1/startup-namer-generator.apk) to download the `apk` of the app.
 
 # Test Run  
 
