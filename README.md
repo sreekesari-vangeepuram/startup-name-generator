@@ -1,8 +1,14 @@
-# Startup Name Generator (Fun Project)
+# Startup Name Generator (Fun Project)  
 
 A Flutter project which generates names randomly for your Startup.  
 
-### Run
+# Downloads  
+
+For Android-based devices:  
+[Click here] to download the `apk` of the app.
+
+# Test Run  
+
 To run this in your mobile, use debug mode!  
   
 If you have no issues listed by `flutter doctor`,  
