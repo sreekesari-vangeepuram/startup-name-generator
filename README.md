@@ -2,6 +2,10 @@
 
 A Flutter project which generates names randomly for your Startup.  
 
+### Preview
+![app.gif](https://github.com/sreekesari-vangeepuram/startup-name-generator/blob/main/assets/gif/app.gif)
+
+
 # Downloads  
 
 For Android-based devices:  
