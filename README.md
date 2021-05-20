@@ -5,7 +5,7 @@ A Flutter project which generates names randomly for your Startup.
 ### Run
 To run this in your mobile, use debug mode!  
   
-If you have no issue listed by `flutter doctor`,  
+If you have no issues listed by `flutter doctor`,  
 you are good to go further.  
 
 ```console
